@@ -30,11 +30,6 @@
         "@first": true
     },
     "workspace": {
-        "@folders": [
-            {
-                "name": "DeviseMailer",
-                "path": "/DeviseMailer"
-            }
-        ]
+        "@folders": []
     }
 }
