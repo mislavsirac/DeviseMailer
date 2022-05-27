@@ -1,0 +1,1 @@
+{"mime":"text/x-script.ruby","filter":false,"title":"application_record.rb","tooltip":"/app/models/application_record.rb","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1653573340309,"hash":"b40193a5447806d689d114a0f55f392ae7c199e4"}
